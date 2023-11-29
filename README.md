@@ -1,4 +1,5 @@
-# Azure 104 renewal assessment 38 questions
+# Renewal for Microsoft Certified: Azure Administrator Associate
+## AZ-104 RENEWAL ASSESSMENT 38 QUESTIONS
 
 #### Question 1 of 26
 You plan to deploy the following Azure web apps:
